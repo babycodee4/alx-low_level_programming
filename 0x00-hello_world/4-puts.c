@@ -1,4 +1,4 @@
-#include <studio.h>
+#include <gss>
 
 /**
  * main - print the string in the put function
