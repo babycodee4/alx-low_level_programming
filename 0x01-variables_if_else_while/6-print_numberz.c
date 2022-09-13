@@ -1,12 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - print the number if it is positive, zero, or negative
+ * main - Prints the numbers since 0 to 9
  *
- * Description: using the main function
- * This program prints "Programming is positive, zero, or negative
- * 
- * Retun: Always (Success)
+ * Return: Always (Success)
  */
 int main(void)
 {
@@ -18,5 +15,6 @@ int main(void)
 	}
 
 	putchar('\n');
+
 	return (0);
 }
