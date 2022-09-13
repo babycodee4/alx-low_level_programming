@@ -2,14 +2,17 @@
 
 /**
  * main - print the number if it is positive, zero, or negative
+ *
  * Description: using the main function
  * This program prints "Programming is positive, zero, or negative
+ * 
  * Retun: Always (Success)
  */
 int main(void)
 {
-int n;
-for (n = '0'; n <= '9'; n++)
+	int n;
+
+	for (n = '0'; n <= '9'; n++)
 	{
 		putchar(n);
 	}
